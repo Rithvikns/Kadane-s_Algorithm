@@ -2,7 +2,7 @@
 
 Kadane’s Algorithm is an efficient way to find the **maximum sum of a contiguous subarray** within a given list of numbers. It runs in **O(n) time complexity**, making it much faster than brute-force approaches.
 
-## 🚀 Algorithm Steps:
+## Algorithm Steps:
 1. Initialize:
    - `max_sum` → Stores the maximum sum found so far.
    - `current_sum` → Tracks the sum of the current subarray.
