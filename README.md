@@ -10,7 +10,6 @@ Kadane’s Algorithm is an efficient way to find the **maximum sum of a contiguo
 2. Iterate through the array:
    - Add the current element to `current_sum`.
    - If `current_sum` exceeds `max_sum`, update `max_sum`.
-   - If `current_sum` becomes negative, reset it to `0` (since a negative sum won't contribute to maximum sum).
 
 3. Return `max_sum` after scanning the entire array.
 
