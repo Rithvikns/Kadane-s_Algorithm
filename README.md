@@ -62,7 +62,7 @@ DNA Sequence Analysis
 Helps in analyzing genomic data to find highly expressed genes by identifying the most significant subsequence.
 Use Case: Bioinformatics (DNA pattern matching).
 
-## 📝 Example:
+##  Example:
 ### **Input:**
 ```python
 arr = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
